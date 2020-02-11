@@ -1,0 +1,42 @@
+{
+    "employees": [
+        {
+            "id": 1, 
+            "name": "Matthew Kroeger",
+            "departmentId": 1,
+            "computerId": 1
+        }, 
+        {
+            "id": 2, 
+            "name": "Sofia Candiani",
+            "departmentId": 2,
+            "computerId": 1
+        }, 
+        {
+            "id": 3, 
+            "name": "Sophia Law",
+            "departmentId": 2,
+            "computerId": 2
+        }
+    ], 
+    "departments": [
+        {
+            "id": 1,
+            "name": "IT"
+        }, 
+        {
+            "id": 2,
+            "name": "Ceramics"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "name": "2019 ASUS"
+        }, 
+        {
+            "id": 2,
+            "name": "2015 Macbook Pro"
+        }
+    ]
+}
